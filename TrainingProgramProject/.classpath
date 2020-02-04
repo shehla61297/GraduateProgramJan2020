@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="D:/Training/javax.json-1.0-b02.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Training/javax.json-api-1.0-b02.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="D:/Training/mongo-java-driver-3.12.1 (1).jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
